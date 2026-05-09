@@ -71,6 +71,23 @@
 </div>
 <br>
 <div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://ghchart.rshah.org/9966CC/akajayesh" alt="Jay's Contribution Graph" />
+      </td>
+      <td valign="top" align="center">
+        <b>Years</b><br>
+        <a href="https://github.com/akajayesh">2026</a><br>
+        <a href="https://github.com/akajayesh">2025</a><br>
+        <a href="https://github.com/akajayesh">2024</a><br>
+        <a href="https://github.com/akajayesh">2023</a>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akajayesh&bg_color=0A0A0A&color=94A3B8&line=9966CC&point=d5bbff&area=true&hide_border=true" alt="Jay's Activity Graph" />
 </div>
 
