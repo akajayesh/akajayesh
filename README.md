@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jayeshsutar312@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=9966CC&labelColor=0D1117" alt="Email" /></a>
-  <a href="https://my-portfolio-theta-henna-16.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=9966CC&labelColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jayesh-sutar-89951825a"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=9966CC&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="tel:+917387885582"><img src="https://img.shields.io/badge/Phone-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=9966CC&labelColor=0D1117" alt="Phone" /></a>
+  <a href="mailto:jayeshsutar312@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=9966CC&labelColor=0D1117" alt="Email" /></a>
+  <a href="https://my-portfolio-theta-henna-16.vercel.app"><img height="40" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=9966CC&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jayesh-sutar-89951825a"><img height="40" src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=9966CC&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="tel:+917387885582"><img height="40" src="https://img.shields.io/badge/Phone-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=9966CC&labelColor=0D1117" alt="Phone" /></a>
 </p>
 
 <p align="center">
@@ -31,20 +31,20 @@
 <div align="center">
 
 ### Frontend
-<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img height="40" src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img height="40" src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+<img height="40" src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img height="40" src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 
 ### Backend & Database
-<img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=092E20" alt="Django" />
-<img src="https://img.shields.io/badge/Django_REST-0A0A0A?style=for-the-badge&logo=django&logoColor=092E20" alt="DRF" />
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img height="40" src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=092E20" alt="Django" />
+<img height="40" src="https://img.shields.io/badge/Django_REST-0A0A0A?style=for-the-badge&logo=django&logoColor=092E20" alt="DRF" />
+<img height="40" src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img height="40" src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 
 ### Deployment & Infrastructure
-<img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-<img src="https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge&logo=render&logoColor=FFFFFF" alt="Render" />
+<img height="40" src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+<img height="40" src="https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge&logo=render&logoColor=FFFFFF" alt="Render" />
 
 </div>
 
@@ -74,7 +74,7 @@
   <table>
     <tr>
       <td valign="top">
-        <img src="https://ghchart.rshah.org/9966CC/akajayesh" alt="Jay's Contribution Graph" />
+        <img width="800" src="https://ghchart.rshah.org/9966CC/akajayesh" alt="Jay's Contribution Graph" />
       </td>
       <td valign="top" align="center">
         <b>Years</b><br>
